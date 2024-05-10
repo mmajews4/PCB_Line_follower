@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Line_follower1.PrjPcb]
+   Generated File[Line_follower1_PCB-RoundHoles.TXT]
+   Generated File[Line_follower1_PCB-SlotHoles.TXT]
+   Generated File[Line_follower1_PCB.LDP]
+   Generated File[Line_follower1_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:15:58 On 19.12.2023

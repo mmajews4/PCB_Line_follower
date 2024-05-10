@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM1_2 Pin=U1-5
+Added Pin To Net: NetName=NetM1_2 Pin=U1-6
+Added Net: Name=NetM1_2
+Added Member To Class: ClassName=Line_follower1_Sheet Member=Component U4 LM339DR2G

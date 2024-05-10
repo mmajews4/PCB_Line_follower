@@ -1,0 +1,44 @@
+Added Component: Designator=J2(68611214422)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/68611214422/Wurth+Elektronik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "68611214422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/68611214422/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/68611214422/Wurth+Elektronik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(68611214422)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/68611214422/Wurth+Elektronik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "68611214422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/68611214422/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/68611214422/Wurth+Elektronik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=D8 Pin=J2-2
+Added Pin To Net: NetName=D7 Pin=J2-3
+Added Pin To Net: NetName=D6 Pin=J2-4
+Added Pin To Net: NetName=D5 Pin=J2-5
+Added Pin To Net: NetName=D4 Pin=J2-6
+Added Pin To Net: NetName=D3 Pin=J2-7
+Added Pin To Net: NetName=D2 Pin=J2-8
+Added Pin To Net: NetName=D1 Pin=J2-9
+Added Pin To Net: NetName=+5 Pin=J2-11
+Added Pin To Net: NetName=+5_LED Pin=J2-12
+Added Pin To Net: NetName=LED Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=J3-2
+Added Pin To Net: NetName=IR_D1 Pin=J3-4
+Added Pin To Net: NetName=IR_D2 Pin=J3-5
+Added Pin To Net: NetName=IR_D3 Pin=J3-6
+Added Pin To Net: NetName=IR_D4 Pin=J3-7
+Added Pin To Net: NetName=IR_D5 Pin=J3-8
+Added Pin To Net: NetName=IR_D6 Pin=J3-9
+Added Pin To Net: NetName=IR_D7 Pin=J3-10
+Added Pin To Net: NetName=IR_D8 Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Member To Class: ClassName=Line_follower1_Sheet Member=Component J2 68611214422
+Added Member To Class: ClassName=Line_follower1_Sheet Member=Component J3 68611214422
